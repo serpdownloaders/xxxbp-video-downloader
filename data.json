@@ -1,0 +1,217 @@
+{
+  "github_source_repo": "https://github.com/serpcompany/xxxbp-downloader",
+  "serply_link": "https://serp.ly/xxxbp-downloader",
+  "app_name": "Xxxbp Video Downloader",
+  "short_description": "Download & Save Xxxbp Videos Easily for Offline Viewing (Browser Extension)",
+  "long_description": "Xxxbp Downloader is a browser extension that helps you detect and download video content from supported Xxxbp pages. The extension analyzes the active page to find media candidates and provides a simple popup interface for saving files in MP4 format. This is a released version with verified target support for Xxxbp video pages.",
+  "main_video": "",
+  "featured_image": "",
+  "screenshots": [
+    "https://apps.serp.co/media/optimized-products/xxxbp-downloader-fullscreen-01-09d8c2737c.webp",
+    "https://apps.serp.co/media/optimized-products/xxxbp-downloader-fullscreen-02-f7b47637e0.webp",
+    "https://apps.serp.co/media/optimized-products/xxxbp-downloader-fullscreen-03-7dca534b03.webp",
+    "https://apps.serp.co/media/optimized-products/xxxbp-downloader-fullscreen-04-6d35933834.webp"
+  ],
+  "chromestore_link": "",
+  "firefoxstore_link": "",
+  "other_links": [],
+  "faqs": [
+    {
+      "question": "Is Xxxbp Downloader free?",
+      "answer": "The extension includes a trial with 3 free downloads. Unlimited downloads require a paid license."
+    },
+    {
+      "question": "Does it work on every Xxxbp video?",
+      "answer": "The extension is designed for Xxxbp video pages, but coverage depends on how each page exposes its media. Start playback before detection for the best results."
+    },
+    {
+      "question": "Can I use it on mobile browsers?",
+      "answer": "This extension is built for desktop browsers like Chrome, Edge, Brave, and Firefox. Mobile support is not available."
+    },
+    {
+      "question": "What quality options are available?",
+      "answer": "Quality options depend on what Xxxbp provides for each video. The extension will list available variants when detected."
+    },
+    {
+      "question": "Is my data safe when using this extension?",
+      "answer": "The extension does not collect personal data. Email sign-in uses one-time password verification for secure access."
+    }
+  ],
+  "permissions": [
+    {
+      "name": "",
+      "description": "I see an error about missing permissions"
+    },
+    {
+      "name": "",
+      "description": "Make sure you granted the required permissions during installation. You may need to reinstall the extension to reset permissions."
+    },
+    {
+      "name": "",
+      "description": "Only download content you own or have explicit permission to save"
+    }
+  ],
+  "features": [
+    "Detects downloadable media from supported Xxxbp video pages",
+    "Provides quality selection options when multiple variants are available",
+    "Saves files in MP4 format for easy playback on standard media players",
+    "Works directly from the browser toolbar popup",
+    "Includes a trial so you can test the workflow before committing",
+    "Detects media from supported Xxxbp video pages",
+    "Quality selection when multiple variants are available",
+    "Direct MP4 output for standard playback",
+    "Popup interface accessible from the browser toolbar",
+    "Works on Xxxbp and its subdomains",
+    "Trial downloads included so you can test the workflow",
+    "Secure email sign-in with one-time password verification",
+    "No credit card required to start the trial"
+  ],
+  "content": {
+    "why": [
+      "Finding a reliable way to save videos from Xxxbp can be frustrating. Many online tools require pasting links into external websites, and some do not work with the player format used on Xxxbp video pages. Browser extensions that claim to work with adult platforms often break after site updates or lack quality options.",
+      "Xxxbp Downloader works directly from your browser toolbar. Open a supported Xxxbp video page, start playback, and the extension detects the media available. You can then choose the quality you want and save the file locally. The extension is designed for the specific page structure of Xxxbp, making detection more reliable than generic download tools."
+    ],
+    "how_it_works": [
+      "Install the extension from the latest release.",
+      "Open Xxxbp and go to a supported video page.",
+      "Start playback so the extension can detect the media.",
+      "Open the popup or use the on-page controls.",
+      "Choose the quality option you want.",
+      "Start the download and wait for the MP4 export to finish.",
+      "Save the final file locally."
+    ],
+    "tutorial": [
+      "Install the Xxxbp Downloader extension from the GitHub Releases page.",
+      "Open your browser and navigate to Xxxbp.",
+      "Browse or search for a video you want to download.",
+      "Click on the video to open its dedicated page.",
+      "Start the video playback so the player initializes.",
+      "Click the extension icon in your browser toolbar.",
+      "Wait for the detection process to find available media.",
+      "Select your preferred quality and click the download button."
+    ],
+    "supported_formats": [
+      "Input: Video content from supported Xxxbp pages, including direct MP4 and HLS streams",
+      "Output: MP4",
+      "Saved files use MP4 so they are easier to replay on standard media players, move between devices, or archive locally."
+    ],
+    "target_users": [
+      "Viewers who want to save Xxxbp videos for offline playback",
+      "Users who prefer local archives over streaming-only access",
+      "People testing media detection workflows on Xxxbp",
+      "Anyone who needs a browser-based download tool for this platform"
+    ],
+    "use_cases": [
+      "Saving a favorite video to watch without an internet connection",
+      "Archiving content for personal reference",
+      "Testing media detection on Xxxbp video pages",
+      "Building a local library of downloaded content",
+      "Evaluating the extension before committing to a paid license"
+    ],
+    "troubleshooting": [
+      "The extension does not detect any media on the page Make sure the video is playing before opening the popup. Some Xxxbp pages require playback to initialize before media data becomes available.",
+      "The download fails or stops partway through Check your internet connection and try again. If the issue persists, try a different quality option.",
+      "The popup shows no supported formats Not all Xxxbp video pages may expose media in a detectable format. Try a different video to confirm the page is supported.",
+      "The extension does not open or respond Reload the Xxxbp page and try again. If the problem continues, reinstall the extension from the latest release.",
+      "I see an error about missing permissions Make sure you granted the required permissions during installation. You may need to reinstall the extension to reset permissions."
+    ],
+    "trial_access": [
+      "Includes 3 free downloads so you can test the workflow first",
+      "Email sign-in uses secure one-time password verification",
+      "No credit card required for the trial",
+      "Unlimited downloads are available with a paid license"
+    ],
+    "installation_instructions": [
+      "Open the latest release page.",
+      "Download the correct build for your browser.",
+      "Install the extension.",
+      "Open a supported Xxxbp page.",
+      "Use the popup to detect and download the media."
+    ],
+    "notes": [
+      "Only download content you own or have explicit permission to save",
+      "An internet connection is required for downloads",
+      "Xxxbp may update its player structure, which could affect detection",
+      "This extension is not affiliated with Xxxbp"
+    ],
+    "about": [
+      "Xxxbp is an adult video platform that hosts a large library of user-uploaded and professional content. The Xxxbp Downloader extension helps you save videos from the platform for offline viewing and personal archiving."
+    ]
+  },
+  "serpx_link": "https://serpx.link/xxxbp-downloader",
+  "github_topics": [
+    "xxxbp-download",
+    "xxxbp-downloader",
+    "xxxbp-video-downloader",
+    "xxxbp-video-downloader-online",
+    "xxxbp-video-downloader-mac",
+    "xxxbp-video-downloader-window",
+    "xxxbp-video-downloader-free",
+    "xxxbp-video-downloader-extension",
+    "xxxbp-video-downloader-app",
+    "xxxbp-video-downloader-chrome",
+    "xxxbp-video-downloader-from-url",
+    "how-to-download-xxxbp-videos",
+    "how-to-download-xxxbp-videos-mac",
+    "how-to-download-xxxbp-videos-windows",
+    "how-to-download-xxxbp-videos-online",
+    "how-to-download-xxxbp-videos-free",
+    "how-to-download-from-xxxbp",
+    "how-to-download-videos-from-xxxbp",
+    "download-xxxbp-videos",
+    "xxxbp-video-tutorial",
+    "save-xxxbp-videos",
+    "xxxbp-video-content-saver",
+    "how-to-download-xxxbp-videos-for-free"
+  ],
+  "hashtags": [
+    "#XxxbpDownload",
+    "#XxxbpDownloader",
+    "#XxxbpVideoDownloader",
+    "#XxxbpVideoDownloaderOnline",
+    "#XxxbpVideoDownloaderMac",
+    "#XxxbpVideoDownloaderWindow",
+    "#XxxbpVideoDownloaderFree",
+    "#XxxbpVideoDownloaderExtension",
+    "#XxxbpVideoDownloaderApp",
+    "#XxxbpVideoDownloaderChrome",
+    "#XxxbpVideoDownloaderFromURL",
+    "#HowToDownloadXxxbpVideos",
+    "#HowToDownloadXxxbpVideosMac",
+    "#HowToDownloadXxxbpVideosWindows",
+    "#HowToDownloadXxxbpVideosOnline",
+    "#HowToDownloadXxxbpVideosFree",
+    "#HowToDownloadFromXxxbp",
+    "#HowToDownloadVideosFromXxxbp",
+    "#DownloadXxxbpVideos",
+    "#XxxbpVideoTutorial",
+    "#SaveXxxbpVideos",
+    "#XxxbpVideoContentSaver",
+    "#HowToDownloadXxxbpVideosForFree"
+  ],
+  "youtube_tags": [
+    "Xxxbp Download",
+    "Xxxbp Downloader",
+    "Xxxbp Video Downloader",
+    "Xxxbp Video Downloader Online",
+    "Xxxbp Video Downloader Mac",
+    "Xxxbp Video Downloader Window",
+    "Xxxbp Video Downloader Free",
+    "Xxxbp Video Downloader Extension",
+    "Xxxbp Video Downloader App",
+    "Xxxbp Video Downloader Chrome",
+    "Xxxbp Video Downloader From URL",
+    "How To Download Xxxbp Videos",
+    "How To Download Xxxbp Videos Mac",
+    "How To Download Xxxbp Videos Windows",
+    "How To Download Xxxbp Videos Online",
+    "How To Download Xxxbp Videos Free",
+    "How To Download From Xxxbp",
+    "How To Download Videos From Xxxbp",
+    "Download Xxxbp Videos",
+    "Xxxbp Video Tutorial",
+    "Save Xxxbp Videos",
+    "Xxxbp Video Content Saver",
+    "How To Download Xxxbp Videos For Free"
+  ]
+}
